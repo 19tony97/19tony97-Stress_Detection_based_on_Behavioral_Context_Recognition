@@ -1,4 +1,4 @@
-# Stress_Detection_based_on_Behavioral_Context_Recognition
+# Stress Detection based on Behavioral Context Recognition
 In Data Exploration fold you can find the data description, analysis and features selection. <br>
 In Cleaning and Classification fold you can find data cleaning preprocessing and comparision of classification models.
 # Documentation
